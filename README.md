@@ -2,4 +2,4 @@
 
 Vanilla JavaScript shopping list app.
 
-<img src="images/screen.png" width="400">
+<img src="screen.png" width="400">
